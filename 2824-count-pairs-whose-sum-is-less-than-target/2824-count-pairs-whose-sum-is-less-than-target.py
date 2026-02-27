@@ -4,9 +4,9 @@ class Solution:
         c = 0
         
         for i in range(len(nums)):
-            for r in range(l + 1, len(nums)):
-                if nums[l] + nums[r] < target:
+            for r in range(i + 1, len(nums)):
+                if nums[i] + nums[r] < target:
                     c += 1
-            l += 1
+        
             
         return c
