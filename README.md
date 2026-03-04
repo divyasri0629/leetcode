@@ -23,4 +23,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/divyasri0629/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/divyasri0629/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0182-duplicate-emails](https://github.com/divyasri0629/leetcode/tree/main/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
