@@ -35,11 +35,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/divyasri0629/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/divyasri0629/leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/divyasri0629/leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/divyasri0629/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/divyasri0629/leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/divyasri0629/leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,4 +58,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/divyasri0629/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/divyasri0629/leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 <!---LeetCode Topics End-->
