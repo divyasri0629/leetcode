@@ -59,4 +59,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/divyasri0629/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/divyasri0629/leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1009-complement-of-base-10-integer](https://github.com/divyasri0629/leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 <!---LeetCode Topics End-->
