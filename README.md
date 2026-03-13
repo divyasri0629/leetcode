@@ -68,4 +68,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/divyasri0629/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/divyasri0629/leetcode/tree/main/0383-ransom-note/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/divyasri0629/leetcode/tree/main/0383-ransom-note/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/divyasri0629/leetcode/tree/main/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
