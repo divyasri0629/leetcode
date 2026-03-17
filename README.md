@@ -65,11 +65,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0190-reverse-bits](https://github.com/divyasri0629/leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/divyasri0629/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/divyasri0629/leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0190-reverse-bits](https://github.com/divyasri0629/leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/divyasri0629/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
