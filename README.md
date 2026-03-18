@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/divyasri0629/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/divyasri0629/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/divyasri0629/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Tree
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/divyasri0629/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0344-reverse-string](https://github.com/divyasri0629/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/divyasri0629/leetcode/tree/main/0383-ransom-note/) | Easy |
 ## Counting
