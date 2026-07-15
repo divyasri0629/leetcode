@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0326-power-of-three](https://github.com/divyasri0629/leetcode/tree/main/0326-power-of-three/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/divyasri0629/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,4 +119,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/divyasri0629/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/divyasri0629/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
