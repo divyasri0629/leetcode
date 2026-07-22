@@ -10,10 +10,9 @@ class Solution:
 
         values = list(a.values())
 
-        for i in range(len(values)):
-            for j in range(i + 1, len(values)):
-                if values[i] == values[j]:
-                    return False
+        value=set(values)
+        if len(value)!=len(values):
+            return False
 
         return True
         
