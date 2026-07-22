@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/divyasri0629/leetcode/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/divyasri0629/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0204-count-primes](https://github.com/divyasri0629/leetcode/tree/main/0204-count-primes/) | Medium |
+| [0217-contains-duplicate](https://github.com/divyasri0629/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/divyasri0629/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/divyasri0629/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/divyasri0629/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/divyasri0629/leetcode/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/divyasri0629/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/divyasri0629/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/divyasri0629/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/divyasri0629/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/divyasri0629/leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/divyasri0629/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0217-contains-duplicate](https://github.com/divyasri0629/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/divyasri0629/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/divyasri0629/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/divyasri0629/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
