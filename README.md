@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/divyasri0629/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/divyasri0629/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/divyasri0629/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/divyasri0629/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/divyasri0629/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/divyasri0629/leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 ## Two Pointers
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/divyasri0629/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/divyasri0629/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/divyasri0629/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/divyasri0629/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
