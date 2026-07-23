@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/divyasri0629/leetcode/tree/main/0015-3sum/) | Medium |
+| [0048-rotate-image](https://github.com/divyasri0629/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0088-merge-sorted-array](https://github.com/divyasri0629/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0204-count-primes](https://github.com/divyasri0629/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/divyasri0629/leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/divyasri0629/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/divyasri0629/leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/divyasri0629/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0326-power-of-three](https://github.com/divyasri0629/leetcode/tree/main/0326-power-of-three/) | Easy |
@@ -152,4 +154,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/divyasri0629/leetcode/tree/main/0204-count-primes/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/divyasri0629/leetcode/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
