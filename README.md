@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/divyasri0629/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/divyasri0629/leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/divyasri0629/leetcode/tree/main/0204-count-primes/) | Medium |
+| [0258-add-digits](https://github.com/divyasri0629/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/divyasri0629/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/divyasri0629/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/divyasri0629/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/divyasri0629/leetcode/tree/main/0204-count-primes/) | Medium |
+| [0258-add-digits](https://github.com/divyasri0629/leetcode/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/divyasri0629/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/divyasri0629/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Enumeration
@@ -158,4 +160,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/divyasri0629/leetcode/tree/main/0048-rotate-image/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/divyasri0629/leetcode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
