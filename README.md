@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/divyasri0629/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/divyasri0629/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/divyasri0629/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/divyasri0629/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/divyasri0629/leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/divyasri0629/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0344-reverse-string](https://github.com/divyasri0629/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/divyasri0629/leetcode/tree/main/0383-ransom-note/) | Easy |
+| [0392-is-subsequence](https://github.com/divyasri0629/leetcode/tree/main/0392-is-subsequence/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,4 +173,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divyasri0629/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/divyasri0629/leetcode/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
