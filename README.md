@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/divyasri0629/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/divyasri0629/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/divyasri0629/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/divyasri0629/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/divyasri0629/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/divyasri0629/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/divyasri0629/leetcode/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/divyasri0629/leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/divyasri0629/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
