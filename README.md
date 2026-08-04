@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/divyasri0629/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0205-isomorphic-strings](https://github.com/divyasri0629/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/divyasri0629/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/divyasri0629/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/divyasri0629/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/divyasri0629/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/divyasri0629/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/divyasri0629/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/divyasri0629/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/divyasri0629/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
