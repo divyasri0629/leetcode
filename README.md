@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/divyasri0629/leetcode/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/divyasri0629/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/divyasri0629/leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/divyasri0629/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/divyasri0629/leetcode/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/divyasri0629/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/divyasri0629/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/divyasri0629/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
