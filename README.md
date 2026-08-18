@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/divyasri0629/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/divyasri0629/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/divyasri0629/leetcode/tree/main/0155-min-stack/) | Medium |
+| [0739-daily-temperatures](https://github.com/divyasri0629/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/divyasri0629/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/divyasri0629/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/divyasri0629/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0739-daily-temperatures](https://github.com/divyasri0629/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/divyasri0629/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/divyasri0629/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/divyasri0629/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -205,4 +207,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/divyasri0629/leetcode/tree/main/0155-min-stack/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/divyasri0629/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
