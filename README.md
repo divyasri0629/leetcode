@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/divyasri0629/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/divyasri0629/leetcode/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/divyasri0629/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/divyasri0629/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/divyasri0629/leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/divyasri0629/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Two Pointers
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/divyasri0629/leetcode/tree/main/0258-add-digits/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/divyasri0629/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
