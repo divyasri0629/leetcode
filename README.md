@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/divyasri0629/leetcode/tree/main/0015-3sum/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divyasri0629/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/divyasri0629/leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/divyasri0629/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/divyasri0629/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/divyasri0629/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0204-count-primes](https://github.com/divyasri0629/leetcode/tree/main/0204-count-primes/) | Medium |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/divyasri0629/leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/divyasri0629/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/divyasri0629/leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/divyasri0629/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divyasri0629/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/divyasri0629/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
