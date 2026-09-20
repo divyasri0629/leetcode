@@ -7,3 +7,4 @@ class Solution:
             visited.add(head)
             head = head.next
         return False
+
